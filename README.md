@@ -6,8 +6,7 @@ Created a privacy policy analysing safety and rating website that uses NLP model
 ![](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/5a12abe3-ba3e-40da-aa10-b9e33ad708fa)
 
 
-**Innovative-product-Development**-
-We have developed a machine learning-powered browser extension to clarify website data collection practices. By analysing and simplifying complex privacy policies, our tool helps users understand data collection, storage, sharing, and risks, empowering them to make informed decisions and control their online privacy.
+
 
 To create a detailed workflow pipeline showing the connections and interactions between your code files along with line references where these connections occur, I will analyze the content of the key Python files (`main.py`, `fire_db.py`, `scraper.py`, and others) that you uploaded. This analysis will outline how data flows through these files, which files are responsible for input, processing, and output, and the exact lines where these interactions are coded.
 
